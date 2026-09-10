@@ -1,0 +1,17 @@
+PMD - Gobierno Municipal de Guadalupe
+Credenciales de demostración
+
+Administrador
+Usuario: admin.pmd
+Contraseña: AdminPMD2026!
+
+Finanzas
+Usuario: finanzas.pmd
+Contraseña: FinanzasPMD2026!
+
+Super Admin - Soporte de Sistemas
+Usuario: superadmin.pmd
+Contraseña: SoportePMD2026!
+
+No existen usuarios Enlace cargados inicialmente.
+El Administrador puede crearlos desde el apartado “Enlaces y dependencias”.

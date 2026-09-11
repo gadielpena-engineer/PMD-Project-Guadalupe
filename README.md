@@ -32,3 +32,5 @@ Los datos del prototipo se guardan localmente en el navegador usado para abrirlo
 - El Administrador puede reemplazar la estructura desde **Catálogo PMD → Importar Excel PMD**. La carga se habilita únicamente del 1 al 31 de enero.
 - La ficha técnica se llena en línea con los campos del formato PbR-SED. **Imprimir / Guardar PDF** abre la ventana nativa de impresión, desde la cual se puede elegir “Guardar como PDF”.
 - Después de imprimir, el Enlace tiene siete días para adjuntar la ficha firmada y responder si ya está firmada.
+
+Prueba de actualización.
